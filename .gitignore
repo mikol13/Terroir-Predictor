@@ -8,3 +8,5 @@ __pycache__/
 # Local environment (if you use one)
 venv/
 .env
+anaconda_projects/
+.virtual_documents
